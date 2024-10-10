@@ -1,2 +1,1 @@
-# prepcource-henry
-este es una prueba de repositorio modulo #2 de prepcource Henry
+este proyecto es una prueba de como crear un respositorio y clonarlo a mi escritorio desde github
